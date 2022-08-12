@@ -5,5 +5,5 @@
 - Junior in Vue.js
 - Junior in React.js
 
-### You can reach me here :earth_americas:
+## You can reach me here :earth_americas:
 [LinkedIn](https://www.linkedin.com/in/wilco-logger-4b036586/)
